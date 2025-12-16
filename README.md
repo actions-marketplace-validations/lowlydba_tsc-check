@@ -57,7 +57,7 @@ jobs:
 
 ### Detecting New TypeScript Errors
 
-For a step-by-step guide on detecting new TypeScript errors between branches, see [Detecting New TypeScript Transpile Errors](find-tsc-regressions.md).
+For a step-by-step guide on detecting new TypeScript errors between branches, see [Detecting New TypeScript Transpile Errors](docs/find-tsc-regressions.md).
 
 ## Reference
 
